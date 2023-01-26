@@ -70,9 +70,6 @@ root@80c6595c745a:/workspace# python 12_kaggle_gld21_benchmark_training.py
 以下のスクリプトは Kaggle コンテスト「[Google Landmark Retrieval Challenge 2021](https://www.kaggle.com/competitions/landmark-retrieval-2021/overview)」に投稿する想定で用意しています。
 `out/` に出力された学習済みモデルの重みファイルを Kaggle データセットとしてアップロードして Kaggle notebook 上でマウントして使用してください。
 
-* 13_kaggle_gld21_inference.py
-* 14_kaggle_gld21_ensemble.py
-
 | ファイル名 | Kaggle Code |
 |:----|:----|
 | 13_kaggle_gld21_inference.py | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/confirm/13-kaggle-gld21-inference-py/notebook) |
