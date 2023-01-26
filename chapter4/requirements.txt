@@ -1,0 +1,7 @@
+timm
+opencv-python
+albumentations
+pandas
+tensorflow-gpu
+faiss-gpu
+matplotlib

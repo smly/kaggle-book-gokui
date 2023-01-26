@@ -1,0 +1,291 @@
+# 参考文献
+
+本書の参考文献を以下に示します。
+
+- [1] https://www.kaggle.com/
+- [2] https://image-net.org/challenges/LSVRC/
+- [3] https://www.meti.go.jp/policy/it_policy/jinzai/AIQuest.html
+- [4] https://www.docker.com/
+- [5] https://gihyo.jp/book/2019/978-4-297-10843-4
+- [6] https://www.kspub.co.jp/book/detail/5190067.html
+- [7] https://book.mynavi.jp/ec/products/detail/id=123641
+- [8] https://www.kspub.co.jp/book/detail/5133323.html
+- [9] https://www.kyoritsu-pub.co.jp/bookdetail/9784320123625
+- [10] https://www.kspub.co.jp/book/detail/1529120.html
+- [11] https://gihyo.jp/book/2022/978-4-297-13058-9
+- [12] https://www.kspub.co.jp/book/detail/1529243.html
+- [13] https://www.ohmsha.co.jp/book/9784274229008/
+- [14] https://speakerdeck.com/smly/detafen-xi-kontesutofalse-sheng-zhe-jie-da-karaxue-bu
+- [15] https://speakerdeck.com/smly/detafen-xi-kontesutofalseji-shu-tozui-jin-falsejin-zhan
+- [16] 馬場雪乃. 2016. “機械学習コンペティションの進展と今後の展開”. 人工知能 31 (2): 248–253.
+- [17] https://www.kdd.org/
+- [18] https://kdd.org/kdd-cup
+- [19] https://nips.cc/
+- [20] https://recsys.acm.org/
+- [21] http://www.libfm.org/
+- [22] Rie Johnson, and Tong Zhang. 2014. “Learning Nonlinear Functions Using Regularized Greedy Forest”. IEEE Transactions on Pattern Analysis and Machine Intelligence, 36 (5): 942–954.
+- [23] Tianqi Chen, and Carlos Guestrin. 2016. “XGBoost: A Scalable Tree Boosting System”. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 785–794.
+- [24] Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton. 2012. “ImageNet Classification with Deep Convolutional Neural Networks”. Advances in Neural Information Processing Systems 25.
+- [25] https://netflixtechblog.com/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
+- [26] https://www.kdnuggets.com/2016/03/xgboost-implementing-winningest-kaggle-algorithm-sparkflink.html
+- [27] Guolin Ke, Qi Meng, Thomas Finely, Taifeng Wang, Wei Chen, Weidong Ma, Qiwei Ye, and Tie-Yan Liu. 2017. “LightGBM: A Highly Efficient Gradient Boosting Decision Tree”. Advances in Neural Information Processing Systems 30, 3149-3157.
+- [28] Liudmila Prokhorenkova, Gleb Gusev, Aleksandr Vorobev, Anna Veronika Dorogush, and Andrey Gulin. 2018. “CatBoost: Unbiased Boosting with Categorical Features”. Advances in Neural Information Processing Systems 31.
+- [29] https://www.kaggle.com/docs/competitions
+- [30] https://www.kaggle.com/c/jane-street-market-prediction/overview/timeline
+- [31] https://www.kaggle.com/c/riiid-test-answer-prediction/data
+- [32] https://docs.google.com/presentation/d/1tQPw_JwRTgRHNbvs3YJOab4PywsprREwR6fo58NfMGQ
+- [33] https://www.kaggle.com/simulations
+- [34] https://www.kaggle.com/c/nfl-big-data-bowl-2021
+- [35] https://www.kaggle.com/c/kaggle-survey-2021
+- [36] https://https-deeplearning-ai.github.io/data-centric-comp/
+- [37] https://www.topcoder.com/
+- [38] https://www.aicrowd.com/
+- [39] https://competitions.codalab.org/
+- [40] https://www.drivendata.org/
+- [41] https://bitgrit.net/
+- [42] https://numer.ai/
+- [43] https://signate.jp/
+- [44] https://comp.probspace.com/
+- [45] https://www.nishika.com/competitions
+- [46] https://atma.connpass.com/
+- [47] https://www.kaggle.com/kaggle/meta-kaggle
+- [48] https://qiita.com/inoichan/items/140cf018d31151d2701a
+- [49] https://www.kaggle.com/c/landmark-recognition-2021
+- [50] https://www.kaggle.com/c/aptos2019-blindness-detection
+- [51] https://www.kaggle.com/c/understanding_cloud_organization
+- [52] https://www.kaggle.com/c/sartorius-cell-instance-segmentation
+- [53] https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation
+- [54] https://www.kaggle.com/c/severstal-steel-defect-detection
+- [55] https://www.kaggle.com/c/global-wheat-detection
+- [56] https://www.kaggle.com/competitions/tensorflow-great-barrier-reef
+- [57] https://www.kaggle.com/c/landmark-retrieval-2021
+- [58] https://www.kaggle.com/c/shopee-product-matching
+- [59] https://www.kaggle.com/c/deepfake-detection-challenge
+- [60] https://www.kaggle.com/c/nfl-impact-detection
+- [61] https://www.kaggle.com/c/nfl-health-and-safety-helmet-assignment
+- [62] Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. 2018. “Towards Deep Learning Models Resistant to Adversarial Attacks”. In Proceedings of the 6th International Conference on Learning Representations.
+- [63] Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. “Generative Adversarial Nets”. Advances in Neural Information Processing Systems 27.
+- [64] https://www.kaggle.com/c/nips-2017-non-targeted-adversarial-attack
+- [65] https://www.kaggle.com/c/generative-dog-images
+- [66] https://www.kaggle.com/c/quora-insincere-questions-classification
+- [67] https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+- [68] https://www.kaggle.com/c/jigsaw-multilingual-toxic-comment-classification
+- [69] https://www.kaggle.com/competitions/jigsaw-toxic-severity-rating
+- [70] https://www.kaggle.com/c/quora-question-pairs
+- [71] https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching
+- [72] https://www.kaggle.com/c/commonlitreadabilityprize
+- [73] https://www.kaggle.com/competitions/feedback-prize-english-language-learning
+- [74] https://www.kaggle.com/c/tensorflow2-question-answering
+- [75] https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering
+- [76] https://www.kaggle.com/c/tweet-sentiment-extraction
+- [77] https://www.kaggle.com/competitions/feedback-prize-2021
+- [78] https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes
+- [79] https://www.kaggle.com/c/freesound-audio-tagging-2019
+- [80] https://www.kaggle.com/c/birdsong-recognition
+- [81] https://www.kaggle.com/c/birdclef-2021
+- [82] https://www.kaggle.com/competitions/birdclef-2022
+- [83] https://www.kaggle.com/c/seti-breakthrough-listen
+- [84] http://dcase.community/
+- [85] https://www.kaggle.com/c/mercari-price-suggestion-challenge
+- [86] https://www.kaggle.com/c/avito-demand-prediction
+- [87] https://www.kaggle.com/c/petfinder-adoption-prediction
+- [88] https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations
+- [89] https://www.kaggle.com/c/santander-product-recommendation
+- [90] https://www.kaggle.com/c/instacart-market-basket-analysis
+- [91] https://www.kaggle.com/competitions/otto-recommender-system
+- [92] https://www.kaggle.com/c/m5-forecasting-accuracy
+- [93] https://www.kaggle.com/c/nfl-big-data-bowl-2020
+- [94] https://www.kaggle.com/c/socialNetwork
+- [95] https://www.kaggle.com/c/champs-scalar-coupling
+- [96] https://www.kaggle.com/c/halite
+- [97] https://www.kaggle.com/c/google-football
+- [98] https://www.kaggle.com/c/rock-paper-scissors
+- [99] https://www.kaggle.com/c/hungry-geese/
+- [100] https://www.kaggle.com/c/lux-ai-2021
+- [101] https://www.kaggle.com/competitions/kore-2022/
+- [102] https://www.kaggle.com/c/santa-workshop-tour-2019
+- [103] https://www.kaggle.com/c/santa-2020/
+- [104] https://www.kaggle.com/c/siim-isic-melanoma-classification
+- [105] https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
+- [106] https://www.kaggle.com/c/riiid-test-answer-prediction
+- [107] https://www.kaggle.com/c/ubiquant-market-prediction
+- [108] https://www.kaggle.com/code
+- [109] https://colab.research.google.com/signup
+- [110] https://aws.amazon.com/sagemaker/studio-lab/
+- [111] https://www.kaggle.com/product-feedback/159602
+- [112] https://www.slideshare.net/TakanoriHayashi3/talkingdata-adtracking-fraud-detection-challenge-1st-place-solution
+- [113] https://github.com/pandas-profiling/pandas-profiling
+- [114] https://github.com/karolzak/ipyplot
+- [115] Shachar Kaufman, Saharon Rosset, Claudia Perlich, and Ori Stitelman. 2012. “Leakage in Data Mining: Formulation, Detection, and Avoidance”. ACM Transactions on Knowledge Discovery from Data, 15, 6 (4): 1–21.
+- [116] https://www.datarobot.com/jp/blog/is-deep-learning-almighty/
+- [117] https://github.com/dair-ai/ml-visuals
+- [118] https://pytorch.org/ecosystem/
+- [119] https://qiita.com/fam_taro/items/c32e0a21cec5704d9a92
+- [120] https://github.com/PyTorchLightning/pytorch-lightning
+- [121] https://github.com/pytorch/ignite
+- [122] https://github.com/catalyst-team/catalyst
+- [123] https://docs.fast.ai/
+- [124] https://github.com/open-mmlab
+- [125] https://github.com/huggingface/transformers
+- [126] D. G. Lowe, 1999. “Object Recognition from Local Scale-Invariant Features”. In Proceedings of the 7th IEEE International Conference on Computer Vision, 2, 1150–1157.
+- [127] Herbert Bay, Tinne Tuytelaars, and Luc Van Gool. 2006. “SURF: Speeded Up Robust Features”. In Computer Vision – ECCV 2006, 404–417.
+- [128] Juan Ramos. 2003. “Using TF-IDF to Determine Word Relevance in Document Queries”. In Proceedings of the 1st Instructional Conference on Machine Learning, 29-48.
+- [129] Mingxing Tan, and Quoc Le. 2019. “EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks”. In International Conference on Machine Learning, 6105–6114.
+- [130] Zhuang Liu, Hanzi Mao, Chao-Yuan Wu, Christoph Feichtenhofer, Trevor Darrell, and Saining Xie. 2022. “A ConvNet for the 2020s”. arXiv:2201.03545.
+- [131] Hassan Ismail Fawaz, Germain Forestier, Jonathan Weber, Lhassane Idoumghar, and Pierre-Alain Muller. 2019. “Deep Learning for Time Series Classification: A Review”. Data Mining and Knowledge Discovery 33 (4): 917–963.
+- [132] Yoon Kim. 2014. “Convolutional Neural Networks for Sentence Classification”. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, 1746–1751.
+- [133] https://www.kaggle.com/c/lish-moa/discussion/202256
+- [134] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Ł. Ukasz Kaiser, and Illia Polosukhin. 2017. “Attention Is All You Need”. Advances in Neural Information Processing Systems 30, 5998-6008.
+- [135] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. “BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding”. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 1, 4171–4186.
+- [136] Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D. Kaplan, Prafulla Dhariwal, Arvind Neelakantan, et al. 2020. “Language Models Are Few-Shot Learners”. Advances in Neural Information Processing Systems 33, 1877–1901.
+- [137] Yinhan Liu, Myle Ott, Naman Goyal, Jingfei Du, Mandar Joshi, Danqi Chen, Omer Levy, Mike Lewis, Luke Zettlemoyer, and Veselin Stoyanov. 2019. “RoBERTa: A Robustly Optimized BERT Pretraining Approach”. arXiv:1907.11692.
+- [138] Pengcheng He, Xiaodong Liu, Jianfeng Gao, and Weizhu Chen. 2021. “DeBERTa: Decoding-Enhanced BERT with Disentangled Attention”. In Proceedings of the 9th International Conference on Learning Representations.
+- [139] Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, et al. 2021. “An Image Is Worth 16 x16 Words: Transformers for Image Recognition at Scale”. In Proceedings of the 9th International Conference on Learning Representations.
+- [140] Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. 2020. “End-to-End Object Detection with Transformers”. In Computer Vision – ECCV 2020, 213–229.
+- [141] Ze Liu, Yutong Lin, Yue Cao, Han Hu, Yixuan Wei, Zheng Zhang, Stephen Lin, and Baining Guo. 2021. “Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows”. In Proceedings of the IEEE/CVF International Conference on Computer Vision, 10012–10022.
+- [142] Christoph Lüscher, Eugen Beck, Kazuki Irie, Markus Kitza, Wilfried Michel, Albert Zeyer, Ralf Schlüter, and Hermann Ney. 2019. “RWTH ASR Systems for LibriSpeech: Hybrid vs Attention”. In INTERSPEECH 2019, 231-235.
+- [143] Shiyang Li, Xiaoyong Jin, Yao Xuan, Xiyou Zhou, Wenhu Chen, Yu-Xiang Wang, and Xifeng Yan. 2019. “Enhancing the Locality and Breaking the Memory Bottleneck of Transformer on Time Series Forecasting”. Advances in Neural Information Processing Systems 32, 5243–5253.
+- [144] Fabian Fuchs, Daniel Worrall, Volker Fischer, and Max Welling. 2020. “SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks”. Advances in Neural Information Processing Systems 33, 1970–1981.
+- [145] https://pytorch.org/blog/pytorch-1.6-released/
+- [146] https://nvlabs.github.io/eccv2020-mixed-precision-tutorial/
+- [147] https://www.nvidia.com/gtc/
+- [148] https://fullstackdeeplearning.com/spring2021/lecture-7/
+- [149] https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/slides/cs224n-2019-lecture18-TreeRNNs.pdf
+- [150] Cheng Guo, and Felix Berkhahn. 2016. “Entity Embeddings of Categorical Variables”. arXiv:1604.06737.
+- [151] Avrim Blum, Adam Kalai, and John Langford. 1999. “Beating the Hold-out: Bounds for K-Fold and Progressive Cross-Validation”. In Proceedings of the 12th Annual Conference on Computational Learning Theory, 203–208.
+- [152] https://www.kaggle.com/c/state-farm-distracted-driver-detection
+- [153] https://www.kaggle.com/jakubwasikowski/stratified-group-k-fold-cross-validation
+- [154] https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/88773
+- [155] https://www.kaggle.com/c/lish-moa
+- [156] https://github.com/trent-b/iterative-stratification
+- [157] https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting
+- [158] https://www.kaggle.com/c/ieee-fraud-detection
+- [159] https://www.kaggle.com/c/ieee-fraud-detection/discussion/111735
+- [160] https://www.kaggle.com/c/ieee-fraud-detection/discussion/111308
+- [161] http://fastml.com/adversarial-validation-part-one/
+- [162] https://www.kaggle.com/c/microsoft-malware-prediction
+- [163] https://www.kaggle.com/c/microsoft-malware-prediction/discussion/84069
+- [164] Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020. “Scaling Laws for Neural Language Models”. arXiv:2001.08361.
+- [165] Pierre Foret, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2021. “Sharpness-Aware Minimization for Efficiently Improving Generalization”. In Proceedings of the 9th International Conference on Learning Representations.
+- [166] https://albumentations-demo.herokuapp.com/
+- [167] https://speakerdeck.com/iwiwi/kaggle-state-farm-distracted-driver-detection
+- [168] Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. 2015. “Distilling the Knowledge in a Neural Network”. arXiv:1503.02531.
+- [169] https://www.kaggle.com/c/kuzushiji-recognition
+- [170] https://www.kaggle.com/c/bengaliai-cv19
+- [171] Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros. 2017. “Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks”. In Proceedings of the IEEE International Conference on Computer Vision, 2223–2232.
+- [172] https://www.kaggle.com/c/bengaliai-cv19/discussion/135984
+- [173] https://web.ec.tuwien.ac.at/webtour21/
+- [174] https://www.kaggle.com/c/data-science-bowl-2019
+- [175] Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. 2017. “Focal Loss for Dense Object Detection”. In Proceedings of the IEEE International Conference on Computer Vision, 2980–2988.
+- [176] Ilya Loshchilov, and Frank Hutter. 2019. “Decoupled Weight Decay Regularization”. In Proceedings of the 7th International Conference on Learning Representations.
+- [177] Sashank J. Reddi, Satyen Kale, and Sanjiv Kumar. 2018. “On the Convergence of Adam and Beyond”. In Proceedings of the 8th International Conference on Learning Representations.
+- [178] Xiang Li, Shuo Chen, Xiaolin Hu, and Jian Yang. 2019. “Understanding the Disharmony Between Dropout and Batch Normalization by Variance Shift”. In 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2677–2685.
+- [179] Rafael Müller, Simon Kornblith, and Geoffrey Hinton. 2019. “When Does Label Smoothing Help?”. In Proceedings of the 33rd International Conference on Neural Information Processing Systems, 4694–4703.
+- [180] Chang-Bin Zhang, Peng-Tao Jiang, Qibin Hou, Yunchao Wei, Qi Han, Zhen Li, and Ming-Ming Cheng. 2021. “Delving Deep Into Label Smoothing”. IEEE Transactions on Image Processing: A Publication of the IEEE Signal Processing Society, 30: 5984–5996.
+- [181] https://www.kaggle.com/c/prostate-cancer-grade-assessment
+- [182] https://www.kaggle.com/c/prostate-cancer-grade-assessment/discussion/169143
+- [183] https://www.kaggle.com/appian/let-s-find-out-duplicate-images-with-imagehash
+- [184] https://www.kaggle.com/c/shopee-product-matching/discussion/227294
+- [185] https://www.kaggle.com/competitions/petfinder-pawpularity-score
+- [186] Suchin Gururangan, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A. Smith. 2020. “Donʼt Stop Pretraining: Adapt Language Models to Domains and Tasks”. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, 8342–8360.
+- [187] https://www.kaggle.com/competitions/nbme-score-clinical-patient-notes/discussion/323095
+- [188] Ting Chen, Simon Kornblith, Mohammad Norouzi, and Geoffrey Hinton. 2020. “A Simple Framework for Contrastive Learning of Visual Representations”. In Proceedings of the 37th International Conference on Machine Learning, 1597–1607.
+- [189] Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, and Ross Girshick. 2020. “Momentum Contrast for Unsupervised Visual Representation Learning”. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 9729–9738.
+- [190] https://www.kaggle.com/c/human-protein-atlas-image-classification
+- [191] Fuchang Gao, and Lixing Han. 2012. “Implementing the Nelder-Mead Simplex Algorithm with Adaptive Parameters”. Computational Optimization and Applications, 51 (1): 259–277.
+- [192] Andreas Töscher, Michael Jahrer, and Robert M. Bell. 2009. “The Bigchaos Solution to the Netflix Grand Prize”.
+- [193] Gao Huang, Yixuan Li, Geoff Pleiss, Zhuang Liu, John E. Hopcroft, and Kilian Q. Weinberger. 2017. “Snapshot Ensembles: Train 1, Get M for Free”. arXiv:1704.00109.
+- [194] https://www.kaggle.com/c/imaterialist-challenge-fashion-2018/discussion/57934
+- [195] https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition
+- [196] Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. 2016. “Deep Residual Learning for Image Recognition”. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 770-778.
+- [197] Torch | Training and investigating Residual Nets http://torch.ch/blog/2016/02/04/resnets.html
+- [198] Priya Goyal, Piotr Dollár, Ross Girshick, Pieter Noordhuis, Lukasz Wesolowski, Aapo Kyrola, Andrew Tulloch, Yangqing Jia, and Kaiming He. 2017. “Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour”. arXiv:1706.02677.
+- [199] Simon Kornblith, Jonathon Shlens, and Quoc V. Le. 2019. “Do Better ImageNet Models Transfer Better?”. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2661–2671.
+- [200] https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html
+- [201] https://pytorch.org/docs/stable/notes/randomness.html
+- [202] Dami Choi, Christopher J. Shallue, Zachary Nado, Jaehoon Lee, Chris J. Maddison, and George E. Dahl. 2019. “On Empirical Comparisons of Optimizers for Deep Learning”. arXiv:1910.05446.
+- [203] Ilya Loshchilov, and Frank Hutter. 2016. “SGDR: Stochastic Gradient Descent with Warm Restarts”. arXiv:1608.03983.
+- [204] Ilya Loshchilov, and Frank Hutter. 2019. “Decoupled Weight Decay Regularization”. In Proceedings of the 7th International Conference on Learning Representations.
+- [205] https://github.com/facebookresearch/mixup-cifar10
+- [206] Zhuoxun He, Lingxi Xie, Xin Chen, Ya Zhang, Yanfeng Wang, and Qi Tian. 2019. “Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data”. arXiv:1909.09148.
+- [207] http://www.arxiv-sanity.com/
+- [208] https://www.kaggle.com/c/humpback-whale-identification
+- [209] https://www.kaggle.com/c/recursion-cellular-image-classification
+- [210] https://www.kaggle.com/c/landmark-retrieval-2021
+- [211] https://www.kaggle.com/c/landmark-recognition-2021
+- [212] https://www.kaggle.com/c/hotel-id-2021-fgvc8
+- [213] Ali Sharif Razavian, Hossein Azizpour, Josephine Sullivan, and Stefan Carlsson. 2014. “CNN Features off-theShelf: An Astounding Baseline for Recognition”. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, 806–813.
+- [214] Filip Radenovic, Ahmet Iscen, Giorgos Tolias, Yannis Avrithis, and Ondrej Chum. 2018. “Revisiting Oxford and Paris: Large-Scale Image Retrieval Benchmarking”. 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+- [215] https://www.kaggle.com/qiubit/roxfordparis
+- [216] https://github.com/filipradenovic/cnnimageretrieval-pytorch
+- [217] Wang Jiang, Yang song, Thomas Leung, Chuck Rosenberg, Jinbin Wang, James Philbin, Bo Chen, Ying Wu. 2014. “Learning Fine-grained Image Similarity with Deep Ranking”. 2014 IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+- [218] Elad Hoffer, and Nir Ailon. 2015. “Deep Metric Learning Using Triplet Network”. In Similarity-Based Pattern Recognition, 84–92. Springer.
+- [219] https://www.kaggle.com/c/landmark-retrieval-challenge/discussion/58482
+- [220] Cao Bingyi, Andre Araujo, and Jack Sim. 2020. “Unifying Deep Local and Global Features for Image Search”. In Proceedings of the European Conference on Computer Vision.
+- [221] https://www.kaggle.com/c/quora-insincere-questions-classification
+- [222] https://www.kaggle.com/c/quora-question-pairs
+- [223] https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification
+- [224] https://www.kaggle.com/c/human-protein-atlas-image-classification
+- [225] https://www.nltk.org/
+- [226] https://spacy.io/
+- [227] https://github.com/seatgeek/fuzzywuzzy
+- [228] https://scikit-learn.org/stable/modules/calibration.html
+- [229] John Platt. 1999. “Probabilistic Outputs for Support Vector Machines and Comparisons to Regularized Likelihood Methods”. Advances in Large Margin Classifiers.
+- [230] Tomas Mikolov, Kai Chen, Greg Corrado, and Jeffrey Dean. 2013. “Efficient Estimation of Word Representations in Vector Space”. arXiv:1301.3781.
+- [231] Jeffrey Pennington, Richard Socher, and Christopher Manning. 2014. “GloVe: Global Vectors for Word Representation”. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, 1532–1543.
+- [232] https://fasttext.cc/
+- [233] https://radimrehurek.com/gensim/
+- [234] Matt Kusner, Yu Sun, Nicholas Kolkin, and Kilian Weinberger. 2015. “From Word Embeddings To Document Distances”. In Proceedings of the 32nd International Conference on Machine Learning, 957–966.
+- [235] Dinghan Shen, Guoyin Wang, Wenlin Wang, Martin Renqiang Min, Qinliang Su, Yizhe Zhang, Chunyuan Li, Ricardo Henao, and Lawrence Carin. 2018. “Baseline Needs More Love: On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms”. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, 440–450.
+- [236] Sanjeev Arora, Yingyu Liang, and Tengyu Ma. 2017. “A Simple but Tough-to-Beat Baseline for Sentence Embeddings”. In Proceedings of the 7th International Conference on Learning Representations.
+- [237] Dheeraj Mekala, Vivek Gupta, Bhargavi Paranjape, and Harish Karnick. 2017. “SCDV: Sparse Composite Document Vectors Using Soft Clustering over Distributional Representations”. In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, 659–669.
+- [238] https://github.com/abhishekkrthakur/is_that_a_duplicate_quora_question
+- [239] https://scikit-learn.org/stable/modules/decomposition.html
+- [240] https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/discussion/56475
+- [241] https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/88773
+- [242] https://www.kaggle.com/c/riiid-test-answer-prediction/discussion/210354
+- [243] Quoc Le, and Tomas Mikolov. 2014. “Distributed Representations of Sentences and Documents”. In Proceedings of the 31st International Conference on Machine Learning, 1188–1196.
+- [244] Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, and Sanja Fidler. 2015. “Skip-Thought Vectors”. In Proceedings of the 28th International Conference on Neural Information Processing Systems, 3294–3302.
+- [245] Daniel Cer, Yinfei Yang, Sheng-Yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St. John, Noah Constant, et al. 2018. “Universal Sentence Encoder”. arXiv:1803.11175.
+- [246] https://www.kaggle.com/jturkewitz/magic-features-0-03-gain
+- [247] https://www.kaggle.com/code/tour1st/magic-feature-v2-0-045-gain
+- [248] Guanhua Zhang, Bing Bai, Jian Liang, Kun Bai, Shiyu Chang, Mo Yu, Conghui Zhu, and Tiejun Zhao. 2019. “Selection Bias Explorations and Debias Methods for Natural Language Sentence Matching Datasets”. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 4418–4429.
+- [249] https://networkx.org/
+- [250] https://www.kaggle.com/c/quora-question-pairs/discussion/34310
+- [251] https://www.kaggle.com/c/web-traffic-time-series-forecasting
+- [252] https://www.kaggle.com/c/vsb-power-line-fault-detection
+- [253] S. Hochreiter, and J. Schmidhuber. 1997. “Long Short-Term Memory”. Neural Computation, 9 (8): 1735–1780.
+- [254] https://www.quora.com/q/quoraengineering/Semantic-Question-Matching-with-Deep-Learning
+- [255] Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. 2018. “Deep Contextualized Word Representations”. In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 1:2227–2237.
+- [256] Mike Schuster, and Kaisuke Nakajima. 2012. “Japanese and Korean Voice Search”. In 2012 IEEE International Conference on Acoustics, Speech and Signal Processing, 5149–5152.
+- [257] http://nlp.seas.harvard.edu/2018/04/03/attention.html
+- [258] Jimmy Lei Ba, Jamie Ryan Kiros, and Geoffrey E. Hinton. 2016. “Layer Normalization”. arXiv:1607.06450.
+- [259] Kevin Clark, Minh-Thang Luong, Quoc V. Le, and Christopher D. Manning. 2020. “ELECTRA: Pre-Training Text Encoders as Discriminators Rather Than Generators”. In Proceedings of the 8th International Conference on Learning Representations.
+- [260] https://huggingface.co/models
+- [261] https://huggingface.co/docs/datasets/
+- [262] https://huggingface.co/course/chapter1/1
+- [263] https://huggingface.co/docs/transformers/preprocessing
+- [264] https://pytorch.org/docs/stable/notes/amp_examples.html
+- [265] https://www.slideshare.net/ssuser4a5291/quora-insincere-questions-10th-place-solution
+- [266] https://www.kaggle.com/c/google-quest-challenge/discussion/129978
+- [267] https://www.kaggle.com/rhtsingh
+- [268] https://www.kaggle.com/rhtsingh/utilizing-transformer-representations-efficiently
+- [269] Ganesh Jawahar, Benoît Sagot, and Djamé Seddah. 2019. “What Does BERT Learn about the Structure of Language?”. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3651–3657.
+- [270] Tianyi Zhang, Felix Wu, Arzoo Katiyar, Kilian Q. Weinberger, and Yoav Artzi. 2021. “Revisiting Few-Sample BERT Fine-Tuning”. In Proceedings of the 9th International Conference on Learning Representations.
+- [271] Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020. “Scaling Laws for Neural Language Models”. arXiv:2001.08361.
+- [272] https://huggingface.co/deepset/roberta-base-squad2
+- [273] https://www.kaggle.com/c/tweet-sentiment-extraction/discussion/159477
+- [274] Chi Sun, Xipeng Qiu, Yige Xu, and Xuanjing Huang. 2019. “How to Fine-Tune BERT for Text Classification?”. In Chinese Computational Linguistics, 194–206.
+- [275] https://www.kaggle.com/c/tensorflow2-question-answering
+- [276] Iz Beltagy, Matthew E. Peters, and Arman Cohan. 2020. “Longformer: The Long-Document Transformer”. arXiv:2004.05150.
+- [277] Manzil Zaheer, Guru Guruganesh, Kumar Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham, et al. 2020. “Big Bird: Transformers for Longer Sequences”. Advances in Neural Information Processing Systems 33, 17283–17297.
+- [278] https://www.kaggle.com/c/google-quest-challenge/discussion/129840
+- [279] https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+- [280] https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/discussion/97471
+- [281] https://www.kaggle.com/c/commonlitreadabilityprize/discussion/258328
+- [282] https://www.kaggle.com/c/commonlitreadabilityprize/discussion/258148
+- [283] Jiankang Deng, Jia Guo, Niannan Xue, and Stefanos Zafeiriou. 2019. "Arcface: Additive angular margin loss for deep face recognition". In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 4690-4699.
+- [284] https://www.kaggle.com/c/shopee-product-matching/discussion/238136
+- [285] https://github.com/cvdfoundation/google-landmark
+- [286] https://www.kaggle.com/datasets/confirm/google-landmark-dataset-v2-micro
+- [287] Rahul Raguram, Ondrej Chum, Marc Pollefeys, Jiri Matas, and Jan-Michael Frahm. 2012. "USAC: A universal framework for random sample consensus". IEEE Transactions on Pattern Analysis and Machine Intelligence, 35(8): 2022-2038.

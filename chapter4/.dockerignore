@@ -1,0 +1,6 @@
+*.png
+venv
+__pycache__
+.cache
+data
+out
