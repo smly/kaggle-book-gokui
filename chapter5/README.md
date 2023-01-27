@@ -87,5 +87,5 @@ data/output/204_bert_concat_last4cls/
 ### 予測の提出
 `run.sh`を使ってDockerコンテナ内でKaggle APIを使用することで、予測結果を提出することができます。以下の例では、 最初に訓練したLightGBMによる予測をKaggle APIを用いて提出しています。
 ```
- DATA_DIR=~/qqp_data ./run.sh kaggle competitions submit -f /data/output/000_gbm_match/tst_prediction.csv -m 000_gbm_match  quora-question-pairs
+ DATA_DIR=~/data ./run.sh kaggle competitions submit -f /data/output/000_gbm_match/tst_prediction.csv -m 000_gbm_match  quora-question-pairs
  ```
