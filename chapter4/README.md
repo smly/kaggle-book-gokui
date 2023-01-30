@@ -73,6 +73,11 @@ root@80c6595c745a:/workspace# python 12_kaggle_gld21_benchmark_training.py
 | ファイル名 | Kaggle Code |
 |:----|:----|
 | 13_kaggle_gld21_inference.py | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/confirm/13-kaggle-gld21-inference-py/notebook) |
-| 14_kaggle_gld21_ensemble.py | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](#) |
 
 同じ要領で [Google Landmarks Dataset v2](https://github.com/cvdfoundation/google-landmark) のような大規模なデータセットを用いて学習すると更にスコアを上げることができます。大規模なデータセットを用いて効率的に試行錯誤するためには様々な技術あります。Automatic Mixed Precision (AMP) による混合精度学習、複数GPUを用いた分散学習、TPU による学習など、効率的に実験をしてスコア改善を目指してみましょう。
+
+以下は GLDv2 clean によって学習したモデルを使ったノートブックの例です:
+
+| ファイル名 | Kaggle Code |
+|:----|:----|
+| 13_kaggle_gld21_inference_gldv2clean.py | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/confirm/13-kaggle-gld21-inference-gldv2clean-py/notebook) |
