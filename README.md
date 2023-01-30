@@ -12,7 +12,7 @@
 | 第2章 探索的データ分析とモデルの作成・検証・性能向上 | [chapter2](./chapter2/) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/sishihara/kaggle-book-gokui-chapter2) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NSYXOASa3YjaL47A_aBKr_qhC2vNkyau?usp=sharing) |
 | 第3章 画像分類入門 | [chapter3](./chapter3/) | 
 | 第4章 画像検索入門 | [chapter4](./chapter4/) | 
-| 第5章 テキスト分類入門 | [chapter5](./chapter5/)| 
+| 第5章 テキスト分類入門 | [chapter5](./chapter5/)| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/flowlight/kaggle-book-gokui-chapter5-bert-dryrun)
 
 - 各章のディレクトリをカレントディレクトリとしてコードを実行してください
 - 詳細は各章のREADMEを参照してください
