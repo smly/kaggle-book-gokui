@@ -1,6 +1,5 @@
 import argparse
 import copy
-import glob
 import os
 import pathlib
 
@@ -16,7 +15,7 @@ from tqdm import tqdm
 CLIP_THRESHOLD = 0.0125
 
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def setup_train_val_split(labels, dryrun=False, seed=0):
     x = np.arange(len(labels))
     y = np.array(labels)
@@ -171,8 +170,6 @@ def setup_tta_transforms():
 ########################################################################################################################
 
 # コード引用あり＠5節
-
-
 def train_1epoch(model, train_loader, lossfun, optimizer, device):
     model.train()
     total_loss, total_acc = 0.0, 0.0
@@ -364,7 +361,7 @@ def train3_mixup(
 # predict部分
 ########################################################################################################################
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def setup_test_loader(data_dir, batch_size, dryrun):
     dataset = torchvision.datasets.ImageFolder(
         os.path.join(data_dir, "test"), transform=setup_center_crop_transform()
@@ -383,7 +380,7 @@ def setup_test_loader(data_dir, batch_size, dryrun):
     return loader, image_ids
 
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def predict(model, loader, device):
     pred_fun = torch.nn.Softmax(dim=1)
     preds = []
@@ -398,7 +395,7 @@ def predict(model, loader, device):
     return preds
 
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def write_prediction(image_ids, prediction, out_path):
     with open(out_path, "w") as f:
         f.write("id,label\n")
@@ -406,7 +403,7 @@ def write_prediction(image_ids, prediction, out_path):
             f.write("{},{}\n".format(i, p))
 
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def write_prediction_with_clip(
     image_ids, prediction, clip_threshold, out_path
 ):
@@ -425,7 +422,7 @@ def write_prediction_with_clip(
 # 5: First try
 #
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def train_subsec5(data_dir, batch_size, dryrun=False, device="cuda:0"):
     model = torchvision.models.resnet50(pretrained=True)
     model.fc = torch.nn.Linear(model.fc.in_features, 2)
@@ -442,7 +439,7 @@ def train_subsec5(data_dir, batch_size, dryrun=False, device="cuda:0"):
     return model
 
 
-# コード引用あり＠5章
+# コード引用あり＠5節
 def predict_subsec5(
     data_dir, out_dir, model, batch_size, dryrun=False, device="cuda:0"
 ):
