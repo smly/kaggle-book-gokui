@@ -105,15 +105,17 @@ def main():
 
     print(pd.DataFrame(results))
 
-    time.sleep(60)  # スコアが出るまで少し時間がかかる
-    subprocess.run(
-        [
-            "kaggle",
-            "competitions",
-            "submissions",
-            "dogs-vs-cats-redux-kernels-edition",
-        ]
-    )
+    # submitしたスコアの確認
+    if not args.dryrun:
+        time.sleep(60)  # スコアが出るまで少し時間がかかる
+        subprocess.run(
+            [
+                "kaggle",
+                "competitions",
+                "submissions",
+                "dogs-vs-cats-redux-kernels-edition",
+            ]
+        )
 
 
 if __name__ == "__main__":
