@@ -18,3 +18,6 @@
 | p.133 4行目 | https://github.com/smly/kagglebook-gokui/chapter5 | https://github.com/smly/kaggle-book-gokui/tree/main/chapter5 |
 | p.133 6行目 | `src/features/match.py` | `features/match.py` |
 | p.133 6行目 | https://github.com/smly/kagglebook-gokui/chapter5/src/features/match.py | https://github.com/smly/kaggle-book-gokui/tree/main/chapter5/features/match.py |
+| p.139 下から2行目 | `src/features/length.py` | `features/length.py` |
+| p.140 下から2行目 | `src/features/edit_distance.py` | `features/edit_distance.py` |
+| p.155 3行目 | `src/features/graph.py` | `features/graph.py` |
