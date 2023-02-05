@@ -1,13 +1,14 @@
 # 正誤表
 
 現時点で判明している訂正箇所を掲載しています。  
-更新日：2023-02-03
+更新日：2023-02-05
 
 ## 未対応
 
 | 正誤箇所 | 誤 |  正 |  
 | :--- | :--- |:--- |
 | p.ⅸ | 3.7.1　考査検証とアンサンブル | 3.7.1　交差検証とアンサンブル |
+| p.21 1行目 | 図 2.4 のように可視化されます。 | 図 2.3 のように可視化されます。なおこの可視化は、次のミニバッチの処理も含めた結果です。 |
 | p.101 2行目 | `extract_vectors()` | `compute_map_and_print()` |
 | p.109 4行目 | https://github.com/smly/kagglebook-gokui/chapter4 | https://github.com/smly/kaggle-book-gokui/tree/main/chapter4 |
 | p.119 2行目 | 2019 (GLD19) | 2021 (GLD21) |
