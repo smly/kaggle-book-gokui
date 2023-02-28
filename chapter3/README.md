@@ -15,6 +15,19 @@
 * NVIDIA Driver, Docker, NVIDIA Container Toolkit 等が正しく設定されており、Docker コンテナ内で GPU が利用可能である。
 * `${HOME}/.kaggle/kaggle.json` が正しく設定されており、Kaggle CLI が正しく動作する。
 
+また、データセットを書籍 p.64 「3.4.1 データセットの準備」に示すディレクトリ構造になるように配置して下さい。以下はそのためのコマンドの例です。
+
+```
+unzip -q -n ../input/dogs-vs-cats-redux-kernels-edition/train.zip -d dogs_vs_cats
+unzip -q -n ../input/dogs-vs-cats-redux-kernels-edition/test.zip -d dogs_vs_cats
+mkdir -p dogs_vs_cats/train/cat
+mkdir -p dogs_vs_cats/train/dog
+mkdir -p dogs_vs_cats/test/unknown
+mv dogs_vs_cats/train/cat*.jpg dogs_vs_cats/train/cat
+mv dogs_vs_cats/train/dog*.jpg dogs_vs_cats/train/dog
+mv dogs_vs_cats/test/*.jpg dogs_vs_cats/test/unknown
+```
+
 ## 実行
 
 `run.sh` は、`Dockerfile` のイメージをビルドし、引数に与えられたコマンドをコンテナ内で実行するようになっています。従って、以下のようにすることで、本章の全ての実験を実行することができます。
