@@ -850,7 +850,7 @@ def run_8_2(data_dir, out_dir, dryrun, device):
         val_losses.append(val_loss)
         print(f"fold={fold}, val loss with TTA={val_loss}")
 
-        test_pred = predict(model, test_loader, device)
+        test_pred = predict_tta(model, test_loader, device)
         test_preds.append(test_pred)
 
     val_loss = np.mean(val_losses)
@@ -926,7 +926,7 @@ def run_9_1(data_dir, out_dir, dryrun, device):
         val_losses.append(val_loss)
         print(f"fold={fold}, val loss with TTA={val_loss}")
 
-        test_pred = predict(model, test_loader, device)
+        test_pred = predict_tta(model, test_loader, device)
         test_preds.append(test_pred)
 
     val_loss = np.mean(val_losses)
