@@ -2,6 +2,8 @@ timm
 opencv-python
 albumentations
 pandas
-tensorflow-gpu
+tensorflow
+tf-slim
 faiss-gpu
 matplotlib
+pydegensac

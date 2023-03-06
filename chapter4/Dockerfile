@@ -17,10 +17,6 @@ RUN apt-get update -qq &&\
   apt-get clean && rm -rf /var/lib/apt/lists/*
 
 RUN cd /opt &&\
-  git clone https://github.com/google-research/tf-slim.git &&\
-  cd tf-slim &&\
-  pip install . &&\
-  cd /opt &&\
   wget https://github.com/google/protobuf/releases/download/v3.3.0/protoc-3.3.0-linux-x86_64.zip &&\
   unzip protoc-3.3.0-linux-x86_64.zip
 ENV PATH_TO_PROTOC /opt
@@ -41,11 +37,6 @@ RUN mkdir parameters &&\
 
 RUN cd /opt &&\
   git clone https://github.com/filipradenovic/cnnimageretrieval-pytorch
-
-RUN cd /opt &&\
-  git clone https://github.com/ducha-aiki/pydegensac &&\
-  cd pydegensac &&\
-  pip install .
 
 ENV PYTHONPATH $PYTHONPATH:/opt/models/research:/opt/cnnimageretrieval-pytorch
 
