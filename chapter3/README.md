@@ -63,7 +63,7 @@ DATA_DIR=<データを置いたディレクトリ> ./run.sh python ./run_all.py 
 fileName      date                 description                                            status    publicScore  privateScore  
 ------------  -------------------  -----------------------------------------------------  --------  -----------  ------------  
 out_clip.csv  2021-12-05 00:44:52  out/runall_2023-03-03_00-45-09/config9-1/out_clip.csv  complete  0.03868      0.03868       
-out_clip.csv  2021-12-04 20:22:25  out/runall_2021-12-04_14-45-58/config8-2/out_clip.csv  complete  0.04276      0.04276       
+out_clip.csv  2021-12-04 20:22:25  out/runall_2023-03-03_00-45-09/config8-2/out_clip.csv  complete  0.04276      0.04276       
 out_clip.csv  2021-12-04 18:16:14  out/runall_2021-12-04_14-45-58/config8-1/out_clip.csv  complete  0.04294      0.04294       
 out_clip.csv  2021-12-04 16:11:49  out/runall_2021-12-04_14-45-58/config7-3/out_clip.csv  complete  0.04453      0.04453       
 out_clip.csv  2021-12-04 15:46:49  out/runall_2021-12-04_14-45-58/config7-1/out_clip.csv  complete  0.04660      0.04660       
