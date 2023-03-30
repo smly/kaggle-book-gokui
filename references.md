@@ -46,7 +46,7 @@
 - [42] https://numer.ai/
 - [43] https://signate.jp/
 - [44] https://comp.probspace.com/
-- [45] https://www.nishika.com/competitions
+- [45] https://competition.nishika.com/
 - [46] https://atma.connpass.com/
 - [47] https://www.kaggle.com/kaggle/meta-kaggle
 - [48] https://qiita.com/inoichan/items/140cf018d31151d2701a
@@ -167,7 +167,7 @@
 - [163] https://www.kaggle.com/c/microsoft-malware-prediction/discussion/84069
 - [164] Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, and Dario Amodei. 2020. “Scaling Laws for Neural Language Models”. arXiv:2001.08361.
 - [165] Pierre Foret, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur. 2021. “Sharpness-Aware Minimization for Efficiently Improving Generalization”. In Proceedings of the 9th International Conference on Learning Representations.
-- [166] https://albumentations-demo.herokuapp.com/
+- [166] https://demo.albumentations.ai/
 - [167] https://speakerdeck.com/iwiwi/kaggle-state-farm-distracted-driver-detection
 - [168] Geoffrey Hinton, Oriol Vinyals, and Jeff Dean. 2015. “Distilling the Knowledge in a Neural Network”. arXiv:1503.02531.
 - [169] https://www.kaggle.com/c/kuzushiji-recognition

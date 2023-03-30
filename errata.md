@@ -1,12 +1,19 @@
 # 正誤表
 
 現時点で判明している訂正箇所を掲載しています。  
-更新日：2023-03-06
+更新日：2023-03-30
 
 ## 未対応
 
 | 正誤箇所 | 誤 |  正 |  
 | :--- | :--- |:--- |
+| p.62 下から3行目 | Kaggleへの提出する | Kaggleへ提出する |
+| p.85 7行目 | 全節 | 前節 |
+| p.109 1行目 | 分割されしまった | 分割されてしまった |
+| p.116 下から4行目 | スコアが上げる | スコアが上がる |
+| p.133 7行目 | https://github.com/smly/kaggle-book-gokui/tree/main/chapter5/features/match.py | https://github.com/smly/kaggle-book-gokui/blob/main/chapter5/features/match.py |
+| p.200 参考文献[45] | https://www.nishika.com/competitions | https://competition.nishika.com/ |
+| p.203 参考文献[166] | https://albumentations-demo.herokuapp.com/ | https://demo.albumentations.ai/ |
 
 ## 第4刷で対応
 
