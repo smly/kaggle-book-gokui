@@ -9,6 +9,7 @@
 | :--- | :--- |:--- |
 | p.62 下から3行目 | Kaggleへの提出する | Kaggleへ提出する |
 | p.85 7行目 | 全節 | 前節 |
+| p.101 1行目 | `extract_features()` | `extract_vectors()` |
 | p.109 1行目 | 分割されしまった | 分割されてしまった |
 | p.116 下から4行目 | スコアが上げる | スコアが上がる |
 | p.133 7行目 | https://github.com/smly/kaggle-book-gokui/tree/main/chapter5/features/match.py | https://github.com/smly/kaggle-book-gokui/blob/main/chapter5/features/match.py |
