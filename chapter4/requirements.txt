@@ -2,7 +2,7 @@ timm
 opencv-python
 albumentations
 pandas
-tensorflow
+tensorflow==2.11.1
 tf-slim
 faiss-gpu
 matplotlib
