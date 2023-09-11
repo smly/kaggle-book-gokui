@@ -1,7 +1,7 @@
 # 正誤表
 
 現時点で判明している訂正箇所を掲載しています。  
-更新日：2023-06-10
+更新日：2023-09-11
 
 ## 未対応
 
@@ -14,6 +14,7 @@
 | p.116 下から4行目 | スコアが上げる | スコアが上がる |
 | p.133 7行目 | https://github.com/smly/kaggle-book-gokui/tree/main/chapter5/features/match.py | https://github.com/smly/kaggle-book-gokui/blob/main/chapter5/features/match.py |
 | p.149 下から15行目 | negative matrix factorization (NMF) | non-negative matrix factorization (NMF) |
+| p.197 下から15行目 | 方法でした[263] | 方法でした[266] |
 | p.200 参考文献[45] | https://www.nishika.com/competitions | https://competition.nishika.com/ |
 | p.203 参考文献[166] | https://albumentations-demo.herokuapp.com/ | https://demo.albumentations.ai/ |
 
